@@ -1,0 +1,3 @@
+# FrameworkCode
+手写框架
+springcode项目是手写框架系列的第一个项目。该项目模拟完成了Spring框架的控制反转和依赖注入的功能。
